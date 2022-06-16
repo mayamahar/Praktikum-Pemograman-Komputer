@@ -1,0 +1,1 @@
+print ('Dijalankan Ketika Package Diimport')
